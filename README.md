@@ -1,5 +1,5 @@
 # Musicate
-Music platform Startup Project
+
 'Musicate' is a startup project for music aficionados. The startup deals in midi controller keyboard with different utility packages for beginner and advanced users.
 Through its aesthetic and interactive website, people can choose the most suitable package for them and start learning music.
 
